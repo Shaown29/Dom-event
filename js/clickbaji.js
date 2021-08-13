@@ -20,3 +20,6 @@ const teri=document.getElementById('make-hotPink');
 teri.addEventListener('click',function(){
     document.body.style.backgroundColor="hotpink";
 })
+document.getElementById('light-blue').addEventListener('click',function(){
+    document.body.style.backgroundColor="lightblue";
+})
